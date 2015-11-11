@@ -1,0 +1,26 @@
+This folder contains MSCI country indices from some 80+ countries. daily data avaliable from 2004 up to now.
+
+
+=================data source and query================
+Home > Products > MSCI Indices > International Equity Indices > Performance > Country
+
+http://www.mscibarra.com/webapp/indexperf/charts?indices=(*),C,30&startDate=19%20Jan,%201993&endDate=19%20Jan,%202010&priceLevel=0&currency=15&frequency=D&scope=C&format=XLS&baseValue=false&site=gimi
+
+note the number after C
+use Thunder to download from following website first
+http://www.mscibarra.com/products/indices/international_equity_indices/gimi/stdindex/performance.html
+
+country-netherland
+http://www.mscibarra.com/webapp/indexperf/charts?indices=89,C,30&startDate=18%20May,%202006&endDate=18%20May,%202010&priceLevel=0&currency=15&frequency=D&scope=C&format=XLS&baseValue=false&site=gimi
+region-acwi imi
+http://www.mscibarra.com/webapp/indexperf/charts?indices=73562,C,41&startDate=19%20May,%202006&endDate=19%20May,%202010&priceLevel=0&currency=15&frequency=D&scope=R&format=XLS&baseValue=false&site=gimi
+region-acwi fm
+http://www.mscibarra.com/webapp/indexperf/charts?indices=89318,C,36&startDate=18%20May,%202006&endDate=18%20May,%202010&priceLevel=0&currency=15&frequency=D&scope=C&format=XLS&baseValue=false&site=gimi
+
+================Convert XLS to CSV================
+
+http://www.softinterface.com/index.htm
+
+================AC World Index Constituents================
+
+As of June 2007 the MSCI World Index consisted of the following 23 developed market country indices: Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Greece, Hong Kong, Ireland, Italy, Japan, Netherlands, New Zealand, Norway, Portugal, Singapore, Spain, Sweden, Switzerland, the United Kingdom, and the United States.
